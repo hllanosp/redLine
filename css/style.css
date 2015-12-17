@@ -1176,7 +1176,7 @@ textarea.placeholder-style::ms-input-placeholder {
 	color: #ffffff;
 }
 .cbx-contact-info .cbx-address {
-	padding-top: 50px;
+	/*padding-top: 50px;*/
 }
 .cbx-contact-info address {
 	font-family: 'Open Sans', Arial, sans-serif;
@@ -3635,3 +3635,6 @@ li.cbxgrid-item-none {
 /* Small Devices, Tablets */
 /* Extra Small Devices, Phones */
 /* Custom, iPhone Retina */
+#img_footer {
+	max-width: 70%;
+}
